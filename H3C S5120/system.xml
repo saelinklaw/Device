@@ -1,0 +1,16 @@
+<!-- XML CONFIGURATION FILE -->
+
+<syslog>
+<syslog>
+<logbuf-table>
+<row><buffer-size>512</buffer-size></row>
+</logbuf-table>
+</syslog>
+</syslog>
+<seclanserver>
+<rdserver>
+<rds-auth-table>
+<row><auth-enable>0</auth-enable></row>
+</rds-auth-table>
+</rdserver>
+</seclanserver>

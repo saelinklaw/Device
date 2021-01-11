@@ -1,0 +1,20 @@
+<< ALARM REPORT >>                              03/09/2019  03:41              
+ LVL  NO  STAT   DATE    TIME      ITEM           UNIT      SLT PRT PARAMETER  
+-------------------------------------------------------------------------------
+ MAJ 0008 ERR  01/01/17 09:00 Memory Backup Bat. -none-     00  00             
+ MAJ 0050 WAR  01/01/17 09:00 System Start Up    -none-     00  00             
+ MIN 0002 ERR  01/01/17 09:03 PKG Installation    ESIU      05  00             
+ MIN 0002 ERR  01/01/17 09:03 PKG Installation    SLIU      05  00             
+ MIN 0002 ERR  01/01/17 09:03 PKG Installation    082_B     05  00             
+ MIN 0042 WAR  01/01/17 09:04 4W Not Start Up    -none-     --  --             
+ MAJ 0008 ERR  01/01/17 09:04 Memory Backup Bat. -none-     00  00             
+ MAJ 0050 WAR  01/01/17 09:04 System Start Up    -none-     00  00             
+ MAJ 0008 ERR  01/01/17 00:00 Memory Backup Bat. -none-     00  00             
+ MAJ 0050 WAR  01/01/17 00:00 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  01/01/17 00:00 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  01/01/17 00:35 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  01/01/17 00:39 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  18/08/18 14:28 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  20/08/18 12:10 System Start Up    -none-     00  00             
+ MAJ 0050 WAR  15/08/19 07:01 System Start Up    -none-     00  00             
+ MAJ 0075 INF  15/08/19 07:26 S/W Update Info    -none-     00  00  7          

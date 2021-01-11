@@ -1,0 +1,9 @@
+<!-- XML CONFIGURATION FILE -->
+
+<syslog>
+<syslog>
+<logbuf-table>
+<row><buffer-size>512</buffer-size></row>
+</logbuf-table>
+</syslog>
+</syslog>
